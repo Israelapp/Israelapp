@@ -1,5 +1,9 @@
 <h1 align="center">¡Hola! Soy Israel 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack+Junior;React+%2B+Python+%2B+Flask;Buscando+mi+primera+oportunidad+como+developer" alt="Typing SVG" />
+</p>
+
 ## 🚀 Sobre mí:
 
 Soy un desarrollador full-stack junior en busca de mi primera oportunidad profesional en el mundo del desarrollo. Vengo de completar un bootcamp intensivo de Full Stack Web Development, construí varios proyectos aplicando tecnologías modernas de frontend y backend.
