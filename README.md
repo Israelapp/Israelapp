@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Israel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack+Junior;React+%2B+Python+%2B+Flask;Buscando+mi+primera+oportunidad+como+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;React+%2B+Python+%2B+Flask;Buscando+mi+primera+oportunidad+como+developer" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre mí:
