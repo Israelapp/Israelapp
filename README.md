@@ -9,12 +9,12 @@ Soy un desarrollador full-stack junior en busca de mi primera oportunidad profes
 ## 🌐 Redes sociales:
 
 <p left>
-<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/israel-alfonso-castillo-montes-de-oca-89a504352/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
+[
 
-> ✏️ Sustituye `TU-USUARIO-LINKEDIN` por tu usuario real de LinkedIn.
 
 ## 💻 Tecnologías utilizadas:
 
