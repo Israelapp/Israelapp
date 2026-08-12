@@ -42,5 +42,5 @@ Soy un desarrollador full-stack junior en busca de mi primera oportunidad profes
 ## 🛠️ Proyectos destacados:
 
 - **[Duky Barber](https://dukybarber.es)** — Sistema de reservas online full-stack para una barbería real, con React + Vite en el frontend y Flask (Python) en el backend. Incluye agenda en tiempo real, panel de administración y notificaciones por email.
-- **pet_care136** — Proyecto colaborativo full-stack (Flask + Next.js) para conectar cuidadores de mascotas, con mapas interactivos (Google Maps API) e integración con Google Calendar.
+- **pet_care136 https://pet-care136-delta.vercel.app/** — Proyecto colaborativo full-stack (Flask + Next.js) para conectar cuidadores de mascotas, con mapas interactivos (Google Maps API) e integración con Google Calendar.
 
